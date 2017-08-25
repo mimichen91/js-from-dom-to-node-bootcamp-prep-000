@@ -1,5 +1,5 @@
-if (6+4=9) {
-  console.log("5 is greater than 2")
+if (6+3===9) {
+  console.log("giraffes")
 }
 if (false) {
   console.log("This will never get printed because the above statement evaluates to false.")
