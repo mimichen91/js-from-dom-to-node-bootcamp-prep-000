@@ -1,4 +1,4 @@
-if (6+3===9) {
+if (6+3=9) {
   console.log("giraffes")
 }
 if (false) {
@@ -6,4 +6,3 @@ if (false) {
 } else {
   console.log("This will get printed!")
 }
-
