@@ -1,4 +1,4 @@
-var dog = "thirsty"
+var dog = "hungry"
 
 if (dog === "hungry") {
   console.log("Refilling food bowl.")
@@ -7,4 +7,3 @@ if (dog === "hungry") {
 } else {
   console.log("Reading newspaper.")
 }
-
