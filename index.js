@@ -1,4 +1,4 @@
-if (5>2) {
+if (6+4=9) {
   console.log("5 is greater than 2")
 }
 if (false) {
@@ -6,3 +6,4 @@ if (false) {
 } else {
   console.log("This will get printed!")
 }
+
