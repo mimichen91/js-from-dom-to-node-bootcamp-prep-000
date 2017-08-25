@@ -1,4 +1,4 @@
-var dog = "hungry"
+var dog = "cuddly"
 
 if (dog === "hungry") {
   console.log("Refilling food bowl.")
